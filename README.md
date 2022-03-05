@@ -1,9 +1,6 @@
 # bitcoin
 
-A new Flutter project.
-
-## Getting Started
-
+![image](https://user-images.githubusercontent.com/86397791/156863486-9e942e15-4b90-4ad3-b441-240af4b5834c.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
